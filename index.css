@@ -1,0 +1,69 @@
+
+footer{
+	position:relative;
+	top:40px;
+    text-align:center;
+	color :orange;
+	text-shadow:   0 0 10px #327394f,
+                   0 0 20px #fff,
+                   0 0 30px #fff,
+                   0 0 40px #27394f;
+     font-family: "AR CENA";
+    font-size:16pt;
+}
+body{
+    background-color:brown;
+}
+
+
+#title{
+  text-align:center;
+  text-transform: uppercase;
+  color:#fff;
+  text-shadow:   0 0 10px #27394f,
+                   0 0 20px #fff,
+                   0 0 30px  #fff,
+                   0 0 40px  #27394f;
+
+  font-family:"cheri liney";
+  font-size:35pt;
+}
+
+	
+#memory{
+    position:relative;
+	top:20px;
+	background-color:rgba(226,203,215,0.8);
+	box-shadow:0 0 10px #fff,
+                   0 0 20px orangered,
+                   0 0 30px #fff,
+                   0 0 40px #fff,
+                   0 0 70px #fff;
+	border-radius:20px;
+	width:450px;
+	height:650px;
+	padding:24px;
+	margin:0px auto;
+}
+#memory > div{
+    background:"black";
+    position:relative;
+	box-shadow:0 0 10px #fff,
+                   0 0 20px #fff,
+                   0 0 30px #fff;
+	width:45px;
+	height:45px;
+	float:left;
+	margin:13px;
+	padding:20px;
+	font-family:"cheri liney";
+	font-size:55px;
+	color:orange;
+	border-radius:10px;
+	text-shadow:   0 0 10px #dbc0ee,
+                   0 0 20px #fff,
+                   0 0 30px  #dbc0ee,
+                   0 0 40px  #fff;
+	cursor:pointer;
+	text-align:center;
+}
